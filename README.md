@@ -41,7 +41,7 @@ A software engineer passionate about programming and AI automation ✨
 
 <p align="center">
   <img src="[https://github-readme-stats.vercel.app/api?username=miarinaeversol&show_icons=true&theme=dark](https://github-readme-stats-sigma-five.vercel.app/api?username=miarinaeversol&show_icons=true&theme=dark)" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miarinaeversol&theme=dark" alt="GitHub Streak" width="48%" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=miarinaeversol&theme=dark" alt="GitHub Streak" width="48%" /> -->
 </p>
 
 ---
