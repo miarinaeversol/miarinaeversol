@@ -40,7 +40,7 @@ A software engineer passionate about programming and AI automation ✨
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miarinaeversol&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=miarinaeversol&show_icons=true&theme=dark](https://github-readme-stats-sigma-five.vercel.app/api?username=miarinaeversol&show_icons=true&theme=dark)" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miarinaeversol&theme=dark" alt="GitHub Streak" width="48%" />
 </p>
 
@@ -48,5 +48,5 @@ A software engineer passionate about programming and AI automation ✨
 
 ### 📫 How to reach me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miarina.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miarina-eversol-hasindray-andriaharentsoa-1a0233357/)
